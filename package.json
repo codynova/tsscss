@@ -1,0 +1,19 @@
+{
+  "name": "tsscss",
+  "version": "0.0.1",
+  "description": "Use TypeScript to generate SCSS code",
+  "main": "lib/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codynova/tsscss.git"
+  },
+  "author": "Cody Nova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codynova/tsscss/issues"
+  },
+  "homepage": "https://github.com/codynova/tsscss#readme"
+}
